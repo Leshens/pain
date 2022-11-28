@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pain/static/css/main.fc7806db.css",
+    "main.js": "/pain/static/js/main.850850ae.js",
+    "index.html": "/pain/index.html",
+    "main.fc7806db.css.map": "/pain/static/css/main.fc7806db.css.map",
+    "main.850850ae.js.map": "/pain/static/js/main.850850ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc7806db.css",
+    "static/js/main.850850ae.js"
+  ]
+}
